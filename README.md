@@ -1,4 +1,4 @@
-# EasyFrame-Msg# https://travis-ci.org/linzhaoming/easyframe-msg.svg?branch=master
+# EasyFrame-Msg# [![Release](https://travis-ci.org/linzhaoming/easyframe-msg.svg?branch=master)]
 EasyFrame-Msg作为一个消息服务器的实现，包括前端调用API。目前作为Kafka客户端API的封装与代理。相对于原生的消息服务器API，使用封装的API更符合具体业务开发的特性和减低开发门槛，同时也提供高性能、稳定、可管控的功能特性  
 
 - EasyFrame-Msg在最初版本会只支持Kafka，但封装的API与具体服务器实现无关。从而提高后续的可扩展性，如使用其它中间件，使用自身的高性能客户端实现
